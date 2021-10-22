@@ -21,6 +21,11 @@
     padding: 7px 17px;
     font-size: 14px;
 }
+.table_dark td a {
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: none;
+}
 .table_dark tr:last-child td {
     border-bottom: none;
 }
